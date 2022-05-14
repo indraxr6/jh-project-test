@@ -1,0 +1,25 @@
+.navbar-nav > li {
+    /* margin-left:30px; */
+    margin-right: 10px;
+}
+
+.btn {
+    height: 40px !important;
+    border: 2px solid black;
+    background: #00ffae;
+    color: #2f373b;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 10px 40px;
+    font-family: "Inter", sans-serif;
+    box-shadow: 5px 5px 0px 0px #000000;
+    border-radius: 0 !important;
+}
+
+h1 {
+          ont-family: Montserrat, sans-serif;
+          font-weight: 900;
+          font-size: 64px;
+          text-align: left;
+          text-shadow: 5px 5px 0px #00ffae;
+}

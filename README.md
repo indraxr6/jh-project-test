@@ -62,3 +62,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Installation Guide
+
+1. Under the repository name, click on Clone or download.
+2. Select the Clone with HTTPs section and copy the clone URL for the repository.
+3. Open Git Bash and change the current working directory to your desired location where you want to create the local copy of the repository.
+4. Use the git clone command with repository URL to make a copy of the remote repository. Execute command below :
+$ git clone https://github.com/indraxr6/jh-project-test.git

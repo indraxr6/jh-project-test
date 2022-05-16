@@ -12,6 +12,7 @@ body {
 }
 
 .btn {
+    display: ;
     height: 40px !important;
     border: 2px solid black;
     background: #00ffae;
@@ -60,9 +61,12 @@ p {
     margin-inline-end: 0px;
     color: #2f373c;
     font-family: 'Urbanist', sans-serif;
-    
-    
 }
+
+.danger {
+color: #00ffae
+}
+
 
 ul {
     
@@ -119,6 +123,9 @@ mark { display: inline-block;
     box-shadow: 5px 5px 0px 1px #ee5eff;
     
     
+}
+.border-left {
+    border-left: 2px solid #00ffae!important;
 }
 
 .uptext {

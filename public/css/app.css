@@ -1,9 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
 
-body {
-    /* font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue"; */
-}
 
 
 .navbar-nav > li {
@@ -11,8 +8,10 @@ body {
     margin-right: 10px;
 }
 
+
+
 .btn {
-    display: ;
+   
     height: 40px !important;
     border: 2px solid black;
     background: #00ffae;
@@ -23,7 +22,45 @@ body {
     font-family: "Inter", sans-serif;
     box-shadow: 5px 5px 0px 0px #000000;
     border-radius: 0 !important;
+    transition: 0.5s;
+
 }
+
+.faqbutton {
+    
+   height: 40px !important;
+   border: 4px solid black;
+   color: black;
+   font-weight: 600;
+   font-size: 15px;
+   padding: 20px;
+   text-align: center;
+   text-align:center; 
+   vertical-align:middle;
+   border-radius: 0%;
+   margin: 5px;
+   font-family: "Inter", sans-serif;
+   background-color: white;
+   
+}
+
+.bottomcontainer {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.center-right {
+    
+align-items: center;
+}
+
+.faqbutton:hover{
+    color: black;
+    background-color: #00ffae;
+    transition: 0.5s;
+    
+}
+
 
 h1 {
     /* font-family: Montserrat, sans-serif; */
@@ -63,9 +100,6 @@ p {
     font-family: 'Urbanist', sans-serif;
 }
 
-.danger {
-color: #00ffae
-}
 
 
 ul {
@@ -136,20 +170,4 @@ mark { display: inline-block;
     font-stretch: ultra-expanded;
 }
 
-.grid2 {
 
-}
-
-/* .fa-solid  {
-    color: #00ffae;
-    
-
-    background: #2f373c;
-    border-radius: 100%;
-
-    /* line-height: 50px; */
-    /* height: 50px;
-    width: 50px; */
-    /* text-align: center; */
-
-    

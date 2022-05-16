@@ -56,7 +56,7 @@
             <li class="nav-item">
               <a class="nav-link" href="#">Pilihan Template</a>
             </li>
-            <button style="background-color: white; padding-bottom: 30px" type="button"
+            <button style="background-color: white; padding-bottom: 30px; " type="button"
               class="btn btn-outline-dark rounded 0 login">Login</button>
             <button style="padding-bottom: 30px" type="button" class="btn btn-outline-dark rounded 0 ">Daftar
               Gratis</button>
@@ -297,14 +297,117 @@
           src="https://www.youtube.com/embed/P8pHAHaUgIU?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=0&amp;mute=0&amp;rel=0&amp;modestbranding=1">
         </iframe>
 
-        <button style="padding: 10px; font-size : 13px;" type="button"
-          class="regbutton mt-5 ">BUAT WEBSITE SEKARANG <i class="fa-solid fa-angle-right"></i></button>
+        <button style="padding: 10px; font-size : 13px;" type="button" class="regbutton mt-5 ">BUAT WEBSITE SEKARANG <i
+            class="fa-solid fa-angle-right"></i></button>
       </p>
 
 
-      
-      
-      <nav class="navbar navbar-expand-lg navbar-light my-2 my-lg-2" style="background-color:#00ffae">
+
+      <div>
+        <div class="container">
+          <div class="row">
+            <div class="col">
+
+              <h1 style="font-size: 72px; text-shadow: 5px 5px 0px black; color: #fcca5d" class="text-left mt-5">2,394
+              </h1>
+              <h1 style="font-size: 44px; text-shadow: 3px 3px 0px #fcca5d; color: black;" class="text-left mt-3">
+                Website telah dibuat dengan builder ini</h1>
+              <p style="font-size: 20px; text-shadow: 0px 0px 0px #00ffae">
+                Rata-rata website ini bisa dibuat kurang dari 1 hari saat kamu sudah terbiasa. Sekarang, giliranmu untuk
+                buat website se-cakep ini.
+              </p>
+              <h2 class="text-italic" style="font-size: 20px">Iya, semudah itu memang ...</h2>
+              <button style="padding: 10px; font-size : 13px;" type="button"
+            class="regbutton btn justify-content-center mt-5 ">BUAT WEBSITE SEKARANG <i
+              class="fa-solid fa-angle-right"></i></button>
+
+            </div>
+            <div class="col-8 mt-5">
+              <img width="90%" src="https://ik.imagekit.io/slanda/bruhed_mfPB2wfFYd.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652691205308" alt="">
+            </div>
+
+          </div>
+        </div>
+
+
+        <h1 style="font-size: 96px" class="text-center center-right">FAQ</h1>
+
+        <div class="bottomcontainer mt-5">
+          <img src="https://cdn.sitemaya.com/wp-content/uploads/2021/10/14154929/zig-zag-zigzag-2703757.jpg"
+            class="rounded float-left mr-4" style="object-fit: cover" width="50%" height="65%">
+
+        </div>
+
+
+
+        <div style="box-shadow: 0px 0px 0px 0px white;" class="card pb-4">
+          <button style="padding-bottom: 30px" type="button" class="faqbutton btn-outline-dark rounded 0">
+            <h2 style="text-shadow: 0px 0px 0px; font-size: 18px;">BERAPA BIAYA BUAT WEBSITE DISINI?<i
+                style="margin-left: 50%" class="fa-solid fa-angle-down"></i></h2>
+          </button>
+
+          <button style="padding-bottom: 30px" type="button" class="faqbutton btn-outline-dark rounded 0">
+            <h2 style="text-shadow: 0px 0px 0px; font-size: 18px;">WEBSITE APA SAJA YANG BISA SAYA BUAT?</h2>
+          </button>
+
+          <button style="padding-bottom: 30px" type="button" class="faqbutton btn-outline-dark rounded 0">
+            <h2 style="text-shadow: 0px 0px 0px; font-size: 18px;">APAKAH SAYA BISA MENGGUNAKAN PLUGIN WORDPRESS?</h2>
+          </button>
+
+          <button style="padding-bottom: 30px" type="button" class="faqbutton btn-outline-dark rounded 0">
+            <h2 style="text-shadow: 0px 0px 0px; font-size: 18px;">APAKAH SAYA PERLU BELAJAR CODING?</h2>
+          </button>
+
+          <button style="padding-bottom: 30px" type="button" class="faqbutton btn-outline-dark rounded 0">
+            <h2 style="text-shadow: 0px 0px 0px; font-size: 18px;">APAKAH SAYA DAPAT DOMAIN GRATIS?</h2>
+          </button>
+
+          <button style="padding-bottom: 30px" type="button" class="faqbutton btn-outline-dark rounded 0">
+            <h2 style="text-shadow: 0px 0px 0px; font-size: 18px;">BERAPA BIAYA HOSTING / SERVER DISINI?</h2>
+          </button>
+
+          <button style="padding-bottom: 30px" type="button" class="faqbutton btn-outline-dark rounded 0">
+            <h2 style="text-shadow: 0px 0px 0px; font-size: 18px;">APAKAH BISA PAKAI DOMAIN CUSTOM?</h2>
+          </button>
+
+          <button style="padding-bottom: 30px" type="button" class="faqbutton btn-outline-dark rounded 0">
+            <h2 style="text-shadow: 0px 0px 0px; font-size: 18px;">APAKAH SAYA BISA DIBANTU BIKIN WEBSITE?</h2>
+          </button>
+
+
+
+
+        </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <br><br><br><br>
+      <nav class="navbar navbar-expand-lg navbar-light my-2 my-lg-2 mt-5" style="background-color:#00ffae">
         <div class="container">
           <img src="https://sitemaya.com/wp-content/uploads/2021/11/logo-sitemaya-135-whitebg.png" width=204 alt="">
           <a class="navbar-brand"></a>
@@ -323,16 +426,19 @@
               <li class="nav-item">
                 <a class="nav-link" href="#">Abuse Report</a>
               </li>
-              
+
             </ul>
           </div>
         </div>
       </nav>
-      
+
       <div class="container bg-light">
         <footer class="py-3 my-4">
-          
-          <p style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;" class="text-center text-muted mx-5">Menemukan pelanggaran/penyalahgunaan oleh user Sitemaya.com? Segera laporkan ke <strong>Abuse Report</strong>  Copyright © 2022 Sitemaya | Managed by <a style="color:black" href="https://jagoan.cloud/"> Jagoan.Cloud Managed Cloud Platform</a></p>
+
+          <p style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;"
+            class="text-center text-muted mx-5">Menemukan pelanggaran/penyalahgunaan oleh user Sitemaya.com? Segera
+            laporkan ke <strong>Abuse Report</strong> Copyright © 2022 Sitemaya | Managed by <a style="color:black"
+              href="https://jagoan.cloud/"> Jagoan.Cloud Managed Cloud Platform</a></p>
         </footer>
       </div>
 

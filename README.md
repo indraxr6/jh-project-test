@@ -70,3 +70,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 3. Open Git Bash and change the current working directory to your desired location where you want to create the local copy of the repository.
 4. Use the git clone command with repository URL to make a copy of the remote repository. Execute command below :
 $ git clone https://github.com/indraxr6/jh-project-test.git
+$ cd jh-project-test
+$ composer install
+$ cp .env.example .env
+$ php artisan key:generate
+5. Run project with $ php artisan serve
+
